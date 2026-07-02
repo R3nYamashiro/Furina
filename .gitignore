@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================
+# Furina | ©MsCheeseBurger
+# ==========================
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
